@@ -1,0 +1,32 @@
+p{
+    color: crimson;
+    background-color: rgb(139, 0, 120);
+    margin: 0;
+}
+
+body{
+    margin:0;
+    background: rgb(48, 0, 68);
+
+}
+
+h1{
+    color: rgb(250, 6, 6);
+}
+
+h2{
+    color: maroon;
+}
+
+img{
+    border-radius: 200px;
+    margin: auto;
+    display: block;
+    border: 15px dotted red;
+}
+
+.vermelho{
+    color: maroon;
+}
+
+
